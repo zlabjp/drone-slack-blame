@@ -1,0 +1,7 @@
+vendors:
+- path: github.com/drone/drone-plugin-go
+  rev: d6109f644c5935c22620081b4c234bb2263743c7
+- path: github.com/nlopes/slack
+  rev: 67c6939dd382a85ccbbe2f2e133fd245fe424098
+- path: golang.org/x/net
+  rev: 3f122ce3dbbe488b7e6a8bdb26f41edec852a40b
